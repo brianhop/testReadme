@@ -3,8 +3,10 @@ Regular text can be writen normally
 <!-- Comments like this won't show up in the rendered readme -->
 ^No comment above^
 
-Headers range in size from 1 to 6, depending on the number of \#'s. The more \#'s the smaller. <br>
-#Biggest
+Headers range in size from 1 to 6, depending on the number of \#'s. The more \#'s the smaller.
+# Biggest
+### Medium
+###### Smaller
 
 ---
 ^^Horizontal line break using 3 dashes on its own line
