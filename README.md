@@ -5,8 +5,6 @@ Regular text can be writen normally
 
 Headers range in size from 1 to 6, depending on the number of \#'s. The more \#'s the smaller. <br>
 #Biggest
-###Medium
-######Smaller
 
 ---
 ^^Horizontal line break using 3 dashes on its own line
