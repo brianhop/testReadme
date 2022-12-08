@@ -1,7 +1,7 @@
 Regular text can be writen normally
 
-<--- Comments with 3 dashes on the left and 2 on the right -->
-Comments won't show up in the rendered readme.
+<!-- Comments like this won't show up in the rendered readme -->
+^No comment above^
 
 Headers range in size from 1 to 6, depending on the number of \#'s. The more \#'s the smaller.
 #Biggest
