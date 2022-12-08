@@ -8,8 +8,9 @@ Headers range in size from 1 to 6, depending on the number of \#'s. The more \#'
 ###Medium
 ######Smaller
 
-Horizontal line break using 3 dashes on its own line
 ---
+^^Horizontal line break using 3 dashes on its own line
+
 
 You can embed code with backticks:
 `print("Hello World");`
